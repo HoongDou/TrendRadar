@@ -6,6 +6,13 @@ DeepSeek
 HarmonyOS
 任正非
 
+苹果
+!水果
+
+iPhone
+ipad
+macos
+
 比亚迪
 王传福
 
@@ -23,9 +30,7 @@ DJI
 黑神话
 冯骥
 
-哪吒
-!车
-!餐
+
 
 三体
 流浪地球
