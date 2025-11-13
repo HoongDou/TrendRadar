@@ -10,7 +10,9 @@ HarmonyOS
 !水果
 
 iPhone
+
 ipad
+
 macos
 
 比亚迪
@@ -112,10 +114,11 @@ ai
 半导体
 
 万科
+
 vanke
+
 房地产
 
 华南理工大学
-SCUT
 
 广雅中学
